@@ -6,3 +6,4 @@
 
 ### [Unser Code ist jetzt auf Codeberg](https://codeberg.org/awesomebible)
 ### [Unsere Vision](https://awesomebible.de/unsere-vision/)
+### [awesomeBible](https://awesomebible.de)
