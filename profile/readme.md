@@ -1,5 +1,5 @@
 <p align="center">
-<img width="512" height="256" src="logo-awesomebible_black.png">
+<img width="512" height="256" src="logo-awesomebible_gradient.svg">
 </p>
 
 ## Wir wollen Menschen von Gottes genialem Plan erzählen, deshalb schreiben wir Code.
