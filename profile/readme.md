@@ -7,3 +7,5 @@
 ### [Unser Code ist jetzt auf Codeberg](https://codeberg.org/awesomebible)
 ### [Unsere Vision](https://awesomebible.de/unsere-vision/)
 ### [awesomeBible](https://awesomebible.de)
+### [Community](https://matrix.to/#/#awesomebible:matrix.org?via=matrix.org)
+### [Kontakt](https://awesomebible.de/kontakt/)
