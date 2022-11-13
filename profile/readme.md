@@ -2,10 +2,9 @@
 <img width="512" height="256" src="/images/logo-awesomebible_gradient.svg">
 </p>
 
-## Wir wollen Menschen von Gottes genialem Plan erzählen, deshalb schreiben wir Code.
+## Unser Ziel ist es, dich von Gottes genialem Plan zu begeistern - deshalb schreiben wir Software!
 
-### [Unser Code ist jetzt auf Codeberg](https://codeberg.org/awesomebible)
-### [Unsere Vision](https://awesomebible.de/unsere-vision/)
+### [Unsere Projekte auf Codeberg](https://codeberg.org/awesomebible)
+### [Mehr über uns & Unsere Vision](https://awesomebible.de/unsere-vision/)
 ### [awesomeBible](https://awesomebible.de)
-### [Community](https://matrix.to/#/#awesomebible:matrix.org?via=matrix.org)
-### [Kontakt](https://awesomebible.de/kontakt/)
+### Besuch uns in unserer [Matrix-](https://matrix.to/#/#awesomebible:matrix.org?via=matrix.org) und [Discord-Community](https://discord.gg/PtFnhdGHrx).
