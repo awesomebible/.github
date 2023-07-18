@@ -4,7 +4,8 @@
 
 ## Unser Ziel ist es, dich von Gottes genialem Plan zu begeistern - deshalb schreiben wir Software!
 
-### [Unsere Projekte auf Codeberg](https://codeberg.org/awesomebible)
 ### [Mehr über uns & Unsere Vision](https://awesomebible.de/unsere-vision/)
 ### [awesomeBible](https://awesomebible.de)
-### Besuch uns in unserer [Matrix-](https://matrix.to/#/#awesomebible:matrix.org?via=matrix.org) und [Discord-Community](https://discord.gg/PtFnhdGHrx).
+### [Docs 📖](https://docs.awesomebible.de)
+### [Status](https://status.awesomebible.de)
+### Besuch uns in unserer [Discord-Community](https://chat.awesomebible.de).
