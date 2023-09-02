@@ -4,6 +4,8 @@
 
 ## Unser Ziel ist es, dich von Gottes genialem Plan zu begeistern - deshalb schreiben wir Software!
 
+[![Discord](https://img.shields.io/discord/940887747130957844?color=5865F2)](https://chat.awesomebible.de)
+
 ### [Mehr über uns & Unsere Vision](https://awesomebible.de/unsere-vision/)
 ### [awesomeBible](https://awesomebible.de)
 ### [Docs 📖](https://docs.awesomebible.de)
