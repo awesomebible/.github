@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://awesomebible.de/" target="_blank" rel="noopener"><img width="512" height="256" src="/images/logo-awesomebible_gradient.svg"></a>
+<a href="https://awesomebible.de/" target="_blank" rel="noopener noreferrer"><img width="512" height="256" src="/images/logo-awesomebible_gradient.svg"></a>
 </p>
 
 ## Unser Ziel ist es, dich von Gottes genialem Plan zu begeistern - deshalb schreiben wir Software!
