@@ -10,4 +10,4 @@
 
 ### ✅ [Status der awesomeBible Services](https://status.awesomebible.de)
 
-### Besuch uns in unserer [Discord-Community](https://chat.awesomebible.de).
+### [Besuch uns in unserer Discord-Community](https://chat.awesomebible.de).
