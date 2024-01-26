@@ -1,4 +1,4 @@
-[![Gott hat einen Plan. Wir wollen dich davon begeistern.](https://github.com/awesomebible/.github/assets/42138517/0c76972c-3b41-4c9b-b436-1b832dab5859)](https://awesomebible.de)
+[![Gott hat einen Plan. Wir wollen dich davon begeistern.](/images/gh-organisation-readme.webp)](https://awesomebible.de)
 
 [![Discord](https://img.shields.io/discord/940887747130957844?color=5865F2&logo=discord&logoColor=white)](https://chat.awesomebible.de)
 
