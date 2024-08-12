@@ -1,4 +1,4 @@
-[![](/images/gh-organisation-readme.webp)](https://awesomebible.de)
+[![](https://github.com/user-attachments/assets/6217ad02-93cb-4868-a162-2d8b83f17265)](https://awesomebible.de)
 
 ## Unser Ziel ist es, dich von Gottes genialem Plan zu begeistern - deshalb schreiben wir Software!
 
